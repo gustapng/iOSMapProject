@@ -4,7 +4,7 @@
 
 ---
 
-[🇺🇸 English Version](#iosmapproject)
+## English Version
 
 ## ✨ Description
 
@@ -54,7 +54,7 @@ If you have any questions or suggestions, feel free to contact me:
 
 <br><hr><br>
 
-## 🇧🇷 Versão em Português
+## Versão em Português
 
 ## ✨ Descrição
 
